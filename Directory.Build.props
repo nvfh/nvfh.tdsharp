@@ -15,9 +15,7 @@ SPDX-License-Identifier: MIT
         <!-- REUSE-IgnoreStart -->
         <Copyright>
             2018 Sergey Khabibullin;
-            2018-2026 tdsharp contributors &lt;https://github.com/egramtel/tdsharp&gt;;
-            2026 TDLib contributors &lt;https://github.com/tdlib/td&gt;
-        </Copyright>
+            2018-2026 tdsharp contributors &lt;https://github.com/egramtel/tdsharp&gt;</Copyright>
         <!-- REUSE-IgnoreEnd -->
         <PublishRepositoryUrl>true</PublishRepositoryUrl>
         <IncludeSymbols>true</IncludeSymbols>

@@ -13,8 +13,8 @@ SPDX-License-Identifier = "MIT"
 path = "TdLib.Api/Functions/*.cs"
 precedence = "override"
 SPDX-FileCopyrightText = [
-    "2025 tdsharp contributors <https://github.com/egramtel/tdsharp>",
-    "2025 TDLib contributors <https://github.com/tdlib/td>"
+    "2018-2026 tdsharp contributors <https://github.com/egramtel/tdsharp>",
+    "2026 TDLib contributors <https://github.com/tdlib/td>"
 ]
 SPDX-License-Identifier = "MIT AND BSL-1.0"
 
@@ -22,7 +22,7 @@ SPDX-License-Identifier = "MIT AND BSL-1.0"
 path = "TdLib.Api/Objects/*.cs"
 precedence = "override"
 SPDX-FileCopyrightText = [
-    "2025 tdsharp contributors <https://github.com/egramtel/tdsharp>",
-    "2025 TDLib contributors <https://github.com/tdlib/td>"
+    "2018-2026 tdsharp contributors <https://github.com/egramtel/tdsharp>",
+    "2026 TDLib contributors <https://github.com/tdlib/td>"
 ]
 SPDX-License-Identifier = "MIT AND BSL-1.0"
